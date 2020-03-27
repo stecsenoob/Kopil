@@ -6,6 +6,8 @@ from itertools import cycle
 
 import random
 
+import os
+
 
 client=commands.Bot(command_prefix = '+')
 
