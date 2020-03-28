@@ -6,7 +6,7 @@ from itertools import cycle
 
 import random
 
-import os
+
 
 
 client=commands.Bot(command_prefix = '+')
@@ -367,4 +367,4 @@ async def on_command_error(ctx, error):
 
 
 
-client.run('NjkwOTgxMzk2NjU0NTg3OTU1.Xn4vmA.PApFPi3c8sqvWT9Mvq1DqB1BeNM')
+client.run('NjkwOTgxMzk2NjU0NTg3OTU1.Xn6Y6A.z8tzPCSQ8kNORj-iBU-tHvFN6vI')
