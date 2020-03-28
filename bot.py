@@ -367,4 +367,4 @@ async def on_command_error(ctx, error):
 
 
 
-client.run('NjkwOTgxMzk2NjU0NTg3OTU1.Xn6Y6A.z8tzPCSQ8kNORj-iBU-tHvFN6vI')
+client.run('NjkwOTgxMzk2NjU0NTg3OTU1.Xn8LPQ.Ngs_NgxdokNR41EzOqnslTFstnY')
