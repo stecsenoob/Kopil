@@ -366,4 +366,4 @@ async def on_command_error(ctx, error):
 
 
 
-client.run(os.environ(['DISCORD_TOKEN']))
+client.run(os.environ['DISCORD_TOKEN'])
