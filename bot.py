@@ -343,18 +343,6 @@ async def on_command_error(ctx, error):
 
 
 
-@client.event
-async def on_message(message):
-	if message.author.bot:
-		return
-	else:
-		await message.channel.send("Hello there!)
-
-
-
-
-
-
 
 
 
