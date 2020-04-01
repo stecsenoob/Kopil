@@ -9,7 +9,7 @@ import random
 import os
 
 
-client=commands.Bot(command_prefix = '+')
+client=commands.Bot(command_prefix = '.')
 
 status=cycle(['with KUR','with PICKA','with majka ti','with baba ti','with sestra ti'])
 
