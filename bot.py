@@ -334,11 +334,6 @@ async def q(ctx,*,question):
 
 
 
-@client.event
-async def on_command_error(ctx, error):
-	if isinstance(error, commands.CommandNotFound):
-		await ctx.send('Invalid command used.')
-
 
 
 
